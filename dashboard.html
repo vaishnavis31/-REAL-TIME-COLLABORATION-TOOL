@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Collaborative Tool</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/dashboard.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Dashboard</h1>
+        <p>Select a document or create a new one.</p>
+        <div class="button-container">
+            <button class="button" onclick="fetchDocuments()">View Documents</button>
+            <button class="button" onclick="createNewDocument()">New Document</button>
+        </div>
+        <div id="documentsList"></div>
+    </div>
+</body>
+</html>
