@@ -99,4 +99,6 @@ THEN OPEN `HTTP://127.0.0.1:5500/FRONTEND/INDEX.HTML` IN YOUR BROWSER.
 
 ---  
 
+##**OUTPUT OF THE TASK**:
 
+![Image](https://github.com/user-attachments/assets/5eaf7a5a-c4b8-4029-9c56-493a0e70141e)
